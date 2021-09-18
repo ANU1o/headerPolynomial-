@@ -1,6 +1,6 @@
 //Polynomial Header File
 
-#include <iostream>
+#include <iostream>     //add " .h " after iostream if you are using Turbo C++
 using namespace std;
 
 class Polynomial
