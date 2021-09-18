@@ -4,4 +4,4 @@
   Use #include "polynomial.h" to use this header in program.
   Refer [hedtest.cpp](https://github.com/ANU1o/headerPolynomial-/blob/main/hedtest.cpp) to see a sample program  
   
-  Currently works with c++.  
+  Works with c++.  
